@@ -13,7 +13,7 @@ export default defineConfig({
         manualChunks: {
           vendor: ["react", "react-dom"],
           router: ["react-router-dom"],
-          animation: ["react-tsparticles", "tsparticles"],
+          animation: ["react-tsparticles", "tsparticles-slim"],
         },
       },
     },
