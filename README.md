@@ -138,7 +138,7 @@ src/
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd splmns-assignment
+cd text-animations
 
 # Install dependencies
 npm install
