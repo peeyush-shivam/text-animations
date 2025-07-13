@@ -16,9 +16,8 @@ This is a React-based animated text particle system that allows users to input t
 
 To deploy to production, you can use platforms like:
 
-- **Vercel**: `https://your-app-name.vercel.app`
-- **Netlify**: `https://your-app-name.netlify.app`
-- **GitHub Pages**: `https://your-username.github.io/repo-name`
+- **Netlify**: `https://text-animations.netlify.app/`
+- **GitHub Pages**: `https://github.com/peeyush-shivam/text-animations`
 
 ## 🛠️ Tech Stack
 
@@ -64,38 +63,6 @@ To deploy to production, you can use platforms like:
   - Custom hook creation
   - Bundle optimization and code splitting
   - Documentation generation
-
-### AI-Assisted Development Tasks
-
-1. **Performance Optimization**
-
-   - Identified and fixed unnecessary re-renders
-   - Optimized animation loops and particle systems
-   - Implemented proper cleanup and memory management
-
-2. **Code Structure Improvements**
-
-   - Centralized type definitions
-   - Extracted utility functions
-   - Created custom hooks for better separation of concerns
-   - Eliminated code duplication
-
-3. **Bundle Optimization**
-
-   - Implemented code splitting strategies
-   - Optimized Vite configuration
-   - Reduced bundle size through tree shaking
-
-4. **Type Safety**
-
-   - Enhanced TypeScript configurations
-   - Improved type definitions
-   - Added proper type imports
-
-5. **Dependency Optimization**
-   - Identified and removed unused packages (framer-motion, tsparticles)
-   - Reduced bundle size by eliminating unnecessary dependencies
-   - Maintained functionality while improving performance
 
 ## 🚀 Key Features
 
@@ -191,16 +158,6 @@ npm run lint     # Run ESLint
 
 ## 📝 Development Notes
 
-### AI-Assisted Improvements
-
-The project underwent significant optimization with AI assistance:
-
-1. **Code Quality**: Improved TypeScript types and eliminated duplication
-2. **Performance**: Optimized animations and reduced unnecessary re-renders
-3. **Architecture**: Better separation of concerns with custom hooks
-4. **Maintainability**: Centralized configuration and constants
-5. **Dependency Management**: Identified and removed unused packages to reduce bundle size
-
 ### Future Enhancements
 
 - Add more animation path types
@@ -212,10 +169,3 @@ The project underwent significant optimization with AI assistance:
 ## 📄 License
 
 This project is open source and available under the MIT License.
-
----
-
-**Submission Date**: July 16, 2024  
-**Project Type**: React TypeScript Animation System  
-**AI Tools Used**: Cursor AI (Claude Sonnet 4)  
-**Development Time**: Optimized with AI assistance for performance and code quality
